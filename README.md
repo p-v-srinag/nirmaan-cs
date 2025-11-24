@@ -83,5 +83,10 @@ streamlit run app.py
 ```
 The application will launch automatically in your browser at http://localhost:8501.
 
+### Output
+<img width="1658" height="812" alt="Screenshot 2025-11-24 at 10 57 34" src="https://github.com/user-attachments/assets/42876e1b-5cf3-4799-b168-26e162460fd7" />
+<img width="435" height="792" alt="Screenshot 2025-11-24 at 10 58 34" src="https://github.com/user-attachments/assets/2d59cf32-1be1-458d-b1c7-c6566dbfd320" />
+
+
 ### Author
 P. V. Srinag Submitted for Nirmaan AI Internship Case Study
