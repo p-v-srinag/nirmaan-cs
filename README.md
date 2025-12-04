@@ -88,5 +88,4 @@ The application will launch automatically in your browser at http://localhost:85
 <img width="435" height="792" alt="Screenshot 2025-11-24 at 10 58 34" src="https://github.com/user-attachments/assets/2d59cf32-1be1-458d-b1c7-c6566dbfd320" />
 
 
-### Author
-P. V. Srinag Submitted for Nirmaan AI Internship Case Study
+P. Venkata Srinag Submitted for Nirmaan AI Internship Case Study
